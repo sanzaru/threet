@@ -19,7 +19,7 @@ The fact that 3T is text based, makes it possible to compile the source on vario
 * Added network code. Peer to peer games are now possible.
 
 
-Tested platforms are:
+### Tested platforms are:
 
 * Linux (Ubuntu 9.10) 32bit
 * Linux (Debian Lenny) 64bit

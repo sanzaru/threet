@@ -13,10 +13,10 @@ The fact that 3T is text based, makes it possible to compile the source on vario
 ## Changelog
 
 **Version 1.0:**
-Added computer opponent.
+* Added computer opponent.
 
 **Version 1.1:**
-Added network code. Peer to peer games are now possible.
+* Added network code. Peer to peer games are now possible.
 
 
 Tested platforms are:

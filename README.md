@@ -1,5 +1,4 @@
 # threet (3T)
-======
 
 3T is a remake of the famous game Tic Tac Toe in a text based version, written in C++. 
 
@@ -12,7 +11,7 @@ For now only via peer to peer, but maybe I'll add some dedicated server code lat
 The fact that 3T is text based, makes it possible to compile the source on various platforms.
 
 ## Changelog
-======
+
 **Version 1.0:**
 Added computer opponent.
 

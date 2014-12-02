@@ -2,7 +2,7 @@
 
 3T is a remake of the famous game Tic Tac Toe in a text based version, written in C++. 
 
-Since version 1.0 a computer opponent is avaiable, so that you don't need two players anympore.
+Since version 1.0 a computer opponent is avaiable, so that you don't need two players anymore.
 
 Since version 1.1 it's now possible to play over network. 
 For now only via peer to peer, but maybe I'll add some dedicated server code later.

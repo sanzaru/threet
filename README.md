@@ -7,7 +7,7 @@ Since version 1.0 a computer opponent is avaiable, so that you don't need two pl
 Since version 1.1 it's now possible to play over network. 
 For now only via peer to peer, but maybe I'll add some dedicated server code later.
 
-![Screenshot](http://javacoffee.de/wp-content/2010/05/screen_3t.jpg)
+![Screenshot](https://cdn.seriousmonkey.de/images/screen_3t.jpg)
 
 
 The fact that 3T is text based, makes it possible to compile the source on various platforms.

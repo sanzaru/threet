@@ -31,4 +31,4 @@ The fact that 3T is text based, makes it possible to compile the source on vario
 * DOS (but with some issues, maybe (but only maybe) fixed in the future)
 * FreeBSD 8
 * MacOSX 10.3.9 PPC
-* MacOSX 10.9.4 / 10.11.3 Intel 
+* MacOSX 10.9.4 / 10.11.3 / 10.15.4 Intel 

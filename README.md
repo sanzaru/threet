@@ -32,3 +32,4 @@ The fact that 3T is text based, makes it possible to compile the source on vario
 * FreeBSD 8
 * MacOSX 10.3.9 PPC
 * MacOSX 10.9.4 / 10.11.3 / 10.15.4 Intel 
+* MacOSX 11.0.1 Apple Silicon M1
